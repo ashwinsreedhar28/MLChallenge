@@ -1,4 +1,4 @@
-This is my Machine Learning (ECE 50024) Project.
+This is my Machine Learning (ECE 50024) Mini Challenge Code.
 
 There are 3 files (in order that they are run):
 1. crop_images.py - to crop the training and testing images
